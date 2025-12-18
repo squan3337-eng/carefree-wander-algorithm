@@ -157,9 +157,7 @@ original seed=20251213:
  trit_active_rate=0.00, final_carbon_strength=11.20GPa
  nan=False, time=1.079s
 
-==================================================
 Fused Comparison Summary (Evolved vs Original)
-==================================================
 Mean Energy Error: 1.184e-01 ± 1.952e-03 vs 3.951e+11 ± 7.413e+10
 Energy Drift: -1.080e-02 ± 3.990e-03 vs 3.159e+04 ± 1.211e+04
 Trit Active Rate: 0.00 vs 0.00
